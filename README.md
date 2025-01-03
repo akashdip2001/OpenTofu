@@ -230,7 +230,7 @@ OpenTofu is an open-source infrastructure as code (IaC) tool used for provisioni
 
 ---
 
-By combining theoretical knowledge with hands-on practice, OpenTofu empowers you to efficiently manage and automate infrastructure, making it an essential tool for modern cloud and DevOps workflows.
+By combining theoretical knowledge with hands-on practice and the [Exam](https://www.linkedin.com/posts/the-linux-foundation-training-%26-certification_iac-opentofu-devops-activity-7280661407161860096-SSSJ?utm_source=share&utm_medium=member_desktop), OpenTofu empowers you to efficiently manage and automate infrastructure, making it an essential tool for modern cloud and DevOps workflows.
 
 </br>
 </br>
