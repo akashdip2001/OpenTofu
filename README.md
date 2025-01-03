@@ -3,7 +3,10 @@
 [<img align="right" alt="lfel1009-getting-started-with-opentofu" width="300" src="https://github.com/user-attachments/assets/76e667e7-1207-4c55-ac22-39954c148ea0">](https://www.credly.com/badges/f8f23f57-70f5-4193-a939-1f9bd6622b4d/public_url) 
 
 
-### Brief Notes on OpenTofu  
+### Brief Notes on OpenTofu </br>
+
+| [my Profile](https://openprofile.dev/profile/akashdip2001) |
+| --- |
 
 #### **Lab 1: Installing OpenTofu**  
 1. **Update System & Install Tools**:  
