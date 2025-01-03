@@ -235,5 +235,6 @@ By combining theoretical knowledge with hands-on practice and the [Exam](https:/
 </br>
 </br>
 
-[![akashdip-mahapatra-1bf1e6a7-b321-478d-9b0d-27178b48247d-certificate_page-0001](https://github.com/user-attachments/assets/248b3b32-b260-4af0-8038-166ecfa0cd3f)](https://www.linkedin.com/posts/akashdip2001_devops-opentofu-iac-activity-7280700253522051074-TcAb)
+[![akashdip-mahapatra-5971be11-a39d-4c4a-a81f-a251043206ae-certificate_page-0001](https://github.com/user-attachments/assets/52cf30f7-e0af-4ea1-a398-7ea1d54995e6)](https://www.linkedin.com/posts/akashdip2001_devops-opentofu-iac-activity-7280700253522051074-TcAb)
+
 
